@@ -2,7 +2,8 @@
 
 This project seeks to uncover meaningful trends and patterns that can inform more prudent and sustainable lending decisions. By translating data into actionable insights, it supports financial professionals in making well-informed decisions, strengthening risk assessment processes, and promoting responsible lending practices. In the ever-evolving financial services landscape, ensuring responsible lending while minimizing risk remains an ongoing priority. Although financial institutions face complex challenges, these very complexities present a powerful opportunity: leveraging statistical analysis to drive smarter, evidence-based decision-making.
 ## Dataset
-This dataset encompasses the important informations related to loan granted for many projects. It is structured with the following columns:  
+This dataset encompasses important informations related to loan granted for different projects. It is structured with the following columns:  
+  
 **- Listing Number:** Identifier assigned to each loan  
 **- Term:** Duration of the loan  
 **- Loan status:** Current status of loan  
