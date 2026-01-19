@@ -1,6 +1,14 @@
 # Statistical loan Analysis for Risk Mitigation and Client Solvency using SQL
 
 This project seeks to uncover meaningful trends and patterns that can inform more prudent and sustainable lending decisions. By translating data into actionable insights, it supports financial professionals in making well-informed decisions, strengthening risk assessment processes, and promoting responsible lending practices. In the ever-evolving financial services landscape, ensuring responsible lending while minimizing risk remains an ongoing priority. Although financial institutions face complex challenges, these very complexities present a powerful opportunity: leveraging statistical analysis to drive smarter, evidence-based decision-making.
+
+## Project Goals
+**The primary goals of this project include:**  
+  
+- Driving insights from loan data  
+- Analysing trends of loan data by identifying its distribution over time  
+- Exploring pattern in loan allocation across the borrower demographic     
+  
 ## Dataset
 This dataset encompasses important informations related to loan granted for different projects. It is structured with the following columns:  
   
