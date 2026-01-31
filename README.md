@@ -5,9 +5,10 @@ This project seeks to uncover meaningful trends and patterns that can inform mor
 ## Project Goals
 **The primary goals of this project include:**  
   
-- Deriving insights from loan data  
+- Exploratory analysis from loan data  
 - Analysing trends of loan data by identifying its distribution over time  
-- Exploring pattern in loan allocation across the borrower demographic     
+- Exploring pattern in loan allocation across the borrower demographic
+- Analysing trends between interest rate and socioeconomic factors     
   
 ## Dataset
 This dataset encompasses important informations related to loan granted for different projects. It is structured with the following columns:  
@@ -32,7 +33,7 @@ Pandas
 SQL connector  
 MySQL Workbench  
   
-## Content
+## Project Workflow
 ### Module 1
 ### Task 1: Analyzing Load data
 By exploring this dataset, we aim to ensure that each loan decision is grounded in rigorous statistical evaluation, thereby reducing risk and supporting long-term client success. Leveraging Python and library pandas, we transform raw data into actionable insights that foster more informed lending decisions and contribute to a stronger financial future for both clients and institution.  
